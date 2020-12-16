@@ -58,6 +58,18 @@ class _MyHomePageState extends State<MyHomePage> {
 
 
       String adnan="adnan bhai";
+      //String adnan="adnan bhai";
+      String adnan1="adnan bhai";
+      String adnan3="adnan bhai";
+      String adnan4="adnan bhai";
+      String adnan5="adnan bhai";
+      String adnan6="adnan bhai";
+      String adnan7="adnan bhai";
+      String adnan8="adnan bhai";
+      String adnan9="adnan bhai";
+      String adnan12="adnan bhai";
+      String adnan13="adnan bhai";
+      String adnan14="adnan bhai";
       // This call to setState tells the Flutter framework that something has
       // changed in this State, which causes it to rerun the build method below
       // so that the display can reflect the updated values. If we changed
